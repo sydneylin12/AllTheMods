@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "061b91ee-de45-42d7-9c07-56e62f510a3b",
+    "name": "Harmony",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2891180b-458e-41fb-abb6-4fe9879df450",
+    "name": "squidimenz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c995a69a-a2c1-4f5f-89ed-6503bbb99039",
+    "name": "jin_harmony",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
